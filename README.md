@@ -2,6 +2,10 @@ This is a very simple assistive/productivity tool that registers a keyboard shor
 
 <img width="1702" height="954" alt="image" src="https://github.com/user-attachments/assets/c5252bff-f4f1-4dcb-bf93-7470a43031a2" />
 
+To use:
+
+Just run mouse_grid.py. To make it run at startup, create a shortcut in shell:startup that runs that python file. It will sit in your system tray until you close it.
+
 A mouse grid is a feature borrowed from voice applications that splits the screen into a grid, and lets you enter numbers to move your mouse to a cell.
 
 I liked it back when my hands were bad, and missed it when they got better and I switched from Talon Voice to an ergonomic keyboard. It's helpful when you want to move the mouse without taking your hands off the keyboard.
